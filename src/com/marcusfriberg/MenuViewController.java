@@ -78,6 +78,7 @@ public class MenuViewController {
             }
         } catch (Exception e) {
             System.out.println("ERROR: Ogiltigt värde, använd siffrorna 1, 2, 3 eller 4 för val i huvudmenyn");
+            presentMainMenu();
         }
     }
 
