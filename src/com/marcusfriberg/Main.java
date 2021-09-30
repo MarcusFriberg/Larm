@@ -1,6 +1,7 @@
 /*  Inlämningsuppgift - Objektorienterad programmering 2021
 *   @author Marcus Friberg
 *   @author marcus.friberg@edu.edugrade.se
+*   @teacher Tomas Wigell
 */
 
 package com.marcusfriberg;
